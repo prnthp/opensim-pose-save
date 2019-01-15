@@ -1,2 +1,2 @@
-# opensim-pose-save
-Oh look Poses -> New... it saves poses? *Saves model. Closes Model. Opens Model* WHERE ARE MY POSES!??! ARGH
+# Run these scripts in OpenSim 4.0 to Save and Load poses.
+Close the Coordinate window and open it again to refresh the values after loading.
